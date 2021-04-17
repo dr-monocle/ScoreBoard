@@ -1,7 +1,7 @@
 # __Basket Scoreboard__
  A simple scoreboard for Basket live games.
  
- ![](lib/lib.png)
+ ![](lib/img.png)
 
 ***
 
