@@ -33,7 +33,7 @@
    ![](lib/period.png)
 
 ***
-#### By: __Francisco Oliveira__
+#### By: __DrMonocle__
 ***
 
 ## __Enjoy!__
